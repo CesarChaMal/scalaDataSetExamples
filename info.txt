@@ -1,0 +1,5 @@
+sdk install scala
+or
+sudo apt install -y scala
+
+ scalac DataSetExample.scala -explain && scala DataSetExample
